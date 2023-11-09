@@ -4,7 +4,7 @@ A fully functional calculator app made using the principles of object-oriented p
 
 ## Project Link
 
-You can access the calculator app online at (https://calculator5945.netlify.app/).
+You can access the calculator app online at [Calcualtor](https://calculator5945.netlify.app/).
 
 ## Class Structure
 
